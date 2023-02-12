@@ -1,16 +1,15 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # To do list
 
-This is "To-do list" website that helps you to organize your day.
+>To-do List is an app that helps people organize their lives by allowing them to create a list of tasks that must be completed. Users can add new tasks to the list, remove and edit task descriptions, mark tasks as completed, and delete all completed tasks. 
+
 ## Built with
 
 * html
 * css
 * Javascript in ES6
 * React
-
-## Live Demo 
-
-[Live Demo Link]()
 
 ## Getting started 
 
